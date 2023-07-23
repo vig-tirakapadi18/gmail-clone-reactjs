@@ -18,5 +18,5 @@ export default Main;
 
 const Wrapper = styled.div`
   display: grid;
-  grid-template-columns: 270px auto 5%;
+  grid-template-columns: 270px auto 4%;
 `;
